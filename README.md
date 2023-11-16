@@ -7,8 +7,15 @@ Education
 Additional Education
 - C# Programming
 
-Other info
+Key skills
+- Knowledge in the field of higher mathematics, mathematical analysis, probability theory, mathematical statistics
+- Knowledge of operating systems(Windows/Linux)
+- Knowledge of network technologies(ISO model)
+- Knowledge of the object-oriented programming paradigm
+- Programming C#(Junior), Python, Java, JS
 
+Other Info
+I am a broad-profile IT specialist. I managed to work in the field of information security and network administration. 
 
 <!--
 **IronSrp/IronSrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
