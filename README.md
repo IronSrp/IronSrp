@@ -1,4 +1,14 @@
-### Hi there 👋
+### Here is some information about yourself
+
+Education
+- High|bachelor's degree Cybersecurity
+- High|magistrate's degree Applied Mathematics and Computer Science(not finished)   
+
+Additional Education
+- C# Programming
+
+Other info
+
 
 <!--
 **IronSrp/IronSrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
