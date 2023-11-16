@@ -12,10 +12,10 @@ Key skills
 - Knowledge of operating systems(Windows/Linux)
 - Knowledge of network technologies(ISO model)
 - Knowledge of the object-oriented programming paradigm
-- Programming C#(Junior), Python, Java, JS
+- Programming C#(Junior)
 
 Other Info
-I am a broad-profile IT specialist. I managed to work in the field of information security and network administration. 
+I am a broad-profile IT specialist. I managed to work in the field of information security and network administration. 4 years ago I got acquainted with programming - I tried to write in Python, Java, JS and PHP.
 
 <!--
 **IronSrp/IronSrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
